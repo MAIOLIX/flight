@@ -1,0 +1,3 @@
+C:\progetti\nodejs\flight\obj\Debug\Flight.njsprojAssemblyReference.cache
+C:\progetti\nodejs\flight\obj\Debug\Flight.njsproj.CoreCompileInputs.cache
+C:\progetti\nodejs\flight\bin\Microsoft.NodejsTools.WebRole.dll
